@@ -1,4 +1,7 @@
-hello!!!!!!!!!!!!!!!!!
+<<<<<< HEAD
+=======
+goodmorningo
+>>>>>>> origin/develop
 happy
 bye-bye
 good
