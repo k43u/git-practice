@@ -1,0 +1,4 @@
+hello
+happy
+bye-bye
+good
